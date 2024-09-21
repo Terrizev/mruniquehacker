@@ -8,12 +8,6 @@
 <h1 align="center">Welcome! I'm Professor 👨‍🏫</h1>
 <h3 align="center">Android Developer | Web Developer | Cybersecurity Enthusiast | Bot Developer</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/YourUsername?label=Follow%20Me%21&style=social" alt="GitHub Followers">
-  <img src="https://img.shields.io/youtube/channel/subscribers/UC1234567890?style=social" alt="YouTube Subscribers">
-  <img src="https://img.shields.io/twitter/follow/YourTwitterHandle?style=social" alt="Twitter Followers">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=YourUsername.YourRepoName" alt="Profile Views">
-</p>
 
 ---
 
