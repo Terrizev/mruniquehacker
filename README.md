@@ -1,13 +1,11 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=I+am+Professor;Web+Developer;Android+App+Developer" alt="Typing SVG">
- alt="Typing SVG">
   </a>
 </div>
 
 <h1 align="center">Welcome! I'm Professor 👨‍🏫</h1>
 <h3 align="center">Android Developer | Web Developer | Cybersecurity Enthusiast | Bot Developer</h3>
-
 
 ---
 
@@ -66,7 +64,7 @@
 ### 🌍 Connect with Me
 
 <p align="center">
-  <a href="https://www.youtube.com/@mr_unique_hacker" target="_blank"><img src="https://img.shields.io/badge/YouTube-MrUniqueHacker-red?style=for-the-badge&logo=youtube"></a>
+  <a href="https://www.youtube.com/@mr_unique_hacker" target="_blank"><img src="https://img.shields.io/badge/YouTube-MrUniqueHacker-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://t.me/+AjUcOaQyFRllMDZl" target="_blank"><img src="https://img.shields.io/badge/Telegram-Join%20Now-blue?style=for-the-badge&logo=telegram"></a>
   <a href="https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Subscribe-brightgreen?style=for-the-badge&logo=whatsapp"></a>
 </p>
