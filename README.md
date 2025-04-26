@@ -23,13 +23,10 @@
   <h2>🚀 Projects and Bots</h2>
   <p>Check out some of the awesome projects and bots I'm working on.</p>
 
-  <a href="https://github.com/mruniquehacker/Knightbot" target="_blank">
+  <a href="https://github.com/mruniquehacker/Knightbot-md" target="_blank">
     <img src="https://img.shields.io/badge/Knight_Bot-Multi_Device_Whatsapp_Bot-green?style=for-the-badge&logo=whatsapp" alt="Knight Bot">
   </a>
   <br>
-  <a href="https://github.com/YourUsername/ProjectName" target="_blank">
-    <img src="https://img.shields.io/badge/Other_Project-Description-orange?style=for-the-badge&logo=github" alt="Other Project">
-  </a>
 </div>
 
 ---
