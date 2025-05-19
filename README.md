@@ -86,14 +86,6 @@ A smart, feature-rich WhatsApp Bot that supports multi-device functionality usin
 
 ---
 
-### 📈 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-contribution-graph.ez4o.com/?username=mruniquehacker&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-</p>
-
----
-
 ### 🏅 GitHub Trophies
 
 <p align="center">
