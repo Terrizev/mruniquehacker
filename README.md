@@ -1,91 +1,134 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=I+am+Professor;Web+Developer;Android+App+Developer" alt="Typing SVG">
-  </a>
-</div>
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Professor&width=1000&height=200)](https://github.com/mruniquehacker)
 
-<h1 align="center">Welcome! I'm Professor 👨‍🏫</h1>
-<h3 align="center">Android Developer | Web Developer | Cybersecurity Enthusiast | Bot Developer</h3>
+<h3 align="center">A Passionate Android, Web & Bot Developer | Cybersecurity Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=900&height=100&lines=Web+Developer;Android+App+Developer;Bot+Developer;Cybersecurity+Enthusiast" alt="Typing SVG">
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/@mr_unique_hacker" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Mr%20Unique%20Hacker-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="https://t.me/+AjUcOaQyFRllMDZl" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Join%20Now-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+  <a href="https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Channel-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+</p>
 
 ---
 
 ### 🚀 About Me
 
-- 👨‍🏫 **Professor** - Owner of [Mr Unique Hacker](https://www.youtube.com/@mr_unique_hacker)
-- 🤖 Working on **Knight Bot**, a Multi-Device WhatsApp Bot
-- 💻 Skilled in **Android Development**, **Web Development**, **Cybersecurity**, and **Bot Development**
-- 🎥 **YouTuber** at [Mr Unique Hacker](https://www.youtube.com/@mr_unique_hacker) 
-- 🌱 Always learning new tech and building innovative projects
+- 👨‍🏫 **Professor** — Owner of [Mr Unique Hacker](https://www.youtube.com/@mr_unique_hacker)
+- 🤖 Creator of **Knight Bot** — A Multi-Device WhatsApp Bot
+- 🧠 Tech Enthusiast — Passionate about **Cybersecurity**, **App Dev**, and **Bots**
+- 📹 Content Creator — Tutorials & Tech Hacks on YouTube
+- 🌱 Constantly learning new stacks and improving daily!
 
 ---
 
-<div align="center">
-  <h2>🚀 Projects and Bots</h2>
-  <p>Check out some of the awesome projects and bots I'm working on.</p>
+### 🔥 Skills & Technologies
 
-  <a href="https://github.com/mruniquehacker/Knightbot-md" target="_blank">
-    <img src="https://img.shields.io/badge/Knight_Bot-Multi_Device_Whatsapp_Bot-green?style=for-the-badge&logo=whatsapp" alt="Knight Bot">
-  </a>
-  <br>
-</div>
+<table align="center">
+<tr>
+ <td width="50%" valign="top">
+    <h3 align="center">Languages & Tech</h3>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+    </p>
+  </td>
 
----
-
-### 🔧 Skills
-
-- **Android App Development**
-- **Full-Stack Web Development**
-- **Cybersecurity Enthusiast**
-- **Bot Developer**
-
----
-
-<div align="center">
-  <h2>🌟 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" alt="GitHub Streak">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Most Used Languages">
-</div>
-
----
-
-<div align="center">
-  <h2>📊 GitHub Activity Graph</h2>
-  <img src="https://activity-graph.herokuapp.com/graph?username=YourUsername&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph">
-</div>
+  <td width="50%" valign="top">
+    <h3 align="center">Tools & Frameworks</h3>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    </p>
+  </td>
+</tr>
+</table>
 
 ---
 
-### 🌍 Connect with Me
+### ⚡ Featured Project
+
+#### 🛡️ Knight Bot - [Multi-Device WhatsApp Bot](https://github.com/mruniquehacker/Knightbot-md)
+A smart, feature-rich WhatsApp Bot that supports multi-device functionality using Baileys and Node.js.
 
 <p align="center">
-  <a href="https://www.youtube.com/@mr_unique_hacker" target="_blank"><img src="https://img.shields.io/badge/YouTube-MrUniqueHacker-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://t.me/+AjUcOaQyFRllMDZl" target="_blank"><img src="https://img.shields.io/badge/Telegram-Join%20Now-blue?style=for-the-badge&logo=telegram"></a>
-  <a href="https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Subscribe-brightgreen?style=for-the-badge&logo=whatsapp"></a>
+  <img src="https://img.shields.io/badge/Knight_Bot-Online-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Knight Bot">
 </p>
 
 ---
 
-<div align="center">
-  <h2>📈 GitHub Contributions</h2>
-  <img src="https://github-contribution-stats.vercel.app/api/?username=YourUsername" alt="GitHub Contributions">
-</div>
+### 🏆 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mruniquehacker&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mruniquehacker&theme=radical" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mruniquehacker&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-contribution-graph.ez4o.com/?username=mruniquehacker&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+### 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mruniquehacker&theme=radical&no-frame=true&row=1&margin-w=10" />
+</p>
 
 ---
 
 ### 🎥 Latest YouTube Videos
 
-<div align="center">
+<p align="center">
   <a href="https://www.youtube.com/@mr_unique_hacker">
     <img src="https://github-readme-youtube-stats.herokuapp.com/?username=mr_unique_hacker&theme=radical" alt="YouTube Stats">
   </a>
-</div>
+</p>
+
+---
+
+### 🌍 Let's Connect
+
+<p align="center">
+  <a href="https://www.youtube.com/@mr_unique_hacker">
+    <img src="https://img.shields.io/badge/YouTube-MrUniqueHacker-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="https://t.me/+AjUcOaQyFRllMDZl">
+    <img src="https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+  <a href="https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A">
+    <img src="https://img.shields.io/badge/WhatsApp-Channel-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+</p>
 
 ---
 
 <div align="center">
-  <h2>✨ Thanks for visiting my GitHub! ✨</h2>
-  <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="300" alt="Thanks Gif">
+  <h3>✨ Thanks for visiting my profile! ✨</h3>
+  <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="300" />
 </div>
