@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Professor&width=1000&height=200)](https://github.com/mruniquehacker)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Knight%20Bot&width=1000&height=200)](https://github.com/mruniquehacker)
 
 <h3 align="center">A Passionate Android, Web & Bot Developer | Cybersecurity Enthusiast</h3>
 
@@ -102,16 +102,6 @@ A smart, feature-rich WhatsApp Bot that supports multi-device functionality usin
 
 ---
 
-### 🎥 Latest YouTube Videos
-
-<p align="center">
-  <a href="https://www.youtube.com/@mr_unique_hacker">
-    <img src="https://github-readme-youtube-stats.herokuapp.com/?username=mr_unique_hacker&theme=radical" alt="YouTube Stats">
-  </a>
-</p>
-
----
-
 ### 🌍 Let's Connect
 
 <p align="center">
@@ -127,8 +117,3 @@ A smart, feature-rich WhatsApp Bot that supports multi-device functionality usin
 </p>
 
 ---
-
-<div align="center">
-  <h3>✨ Thanks for visiting my profile! ✨</h3>
-  <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="300" />
-</div>
